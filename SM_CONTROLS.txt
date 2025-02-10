@@ -1,0 +1,19 @@
+Z - back
+X - enter
+ENTER - start
+
+GAMEPLAY
+
+W/A - move
+X - jump
+S - shoot
+UP - look up
+DN - crouch
+Q - angle up
+W - angle down
+SHIFT - swap ammo
+Z - run
+
+HOW TO PLAY THE GAME
+
+go in circles (literally)

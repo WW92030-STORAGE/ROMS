@@ -1,0 +1,19 @@
+Z - back
+X - enter
+ENTER - start
+
+GAMEPLAY
+
+L/R - move
+X - jump
+Z - shoot
+UP - look up
+DN - crouch
+Q - angle up
+Q + DN - angle down
+W - missile/PB
+SHIFT - swap ammo
+
+HOW TO PLAY THE GAME
+
+play the same as you would the nes metroid
